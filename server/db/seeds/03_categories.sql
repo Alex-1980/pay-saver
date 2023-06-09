@@ -1,0 +1,2 @@
+INSERT INTO users (id, name, payee_id) VALUES (1, 'bank', 'https://www.rbcroyalbank.com/personal.html');
+INSERT INTO users (id, name, payee_id) VALUES (2, 'utilities', 'https://www.td.com/ca/en/personal-banking');
